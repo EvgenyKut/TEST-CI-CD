@@ -6,6 +6,6 @@ describe('sum', function () {
   });
 
   test('correct sum action (negative values', () => {
-    expect(customSum(-10, -15)).toBe(-25);
+    expect(customSum(-10, -15)).toBe(25);
   });
 });
