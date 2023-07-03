@@ -1,3 +1,3 @@
 console.log('i18n in process...');
 
-export {};
+export const test = 18;

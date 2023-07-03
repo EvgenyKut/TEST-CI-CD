@@ -1,2 +1,2 @@
 console.log('storybook tests in process...');
-export {};
+export const test = 18;

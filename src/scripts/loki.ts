@@ -1,2 +1,2 @@
 console.log('screenshot tests in process...');
-export {};
+export const test = 18;

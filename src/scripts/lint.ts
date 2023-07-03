@@ -1,2 +1,2 @@
 console.log('linting in process...');
-export {};
+export const test = 18;
